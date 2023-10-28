@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Reflections of an amazing life
-    text: Welcome to Cleo's family!
+    text: Cleo's family!
     button: Find out more
     buttonlink: "#services"
 
